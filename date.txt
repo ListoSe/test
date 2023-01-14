@@ -1,5 +1,6 @@
 Class Date{
-
+int a;
+int b;
 public:
-	date();
+	Date();
 };

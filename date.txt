@@ -1,2 +1,5 @@
 Class Date{
+
+public:
+	date();
 };
